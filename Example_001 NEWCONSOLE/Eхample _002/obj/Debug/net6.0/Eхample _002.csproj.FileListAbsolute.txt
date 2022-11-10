@@ -1,0 +1,15 @@
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Eхample _002\bin\Debug\net6.0\Eхample _002.exe
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Eхample _002\bin\Debug\net6.0\Eхample _002.deps.json
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Eхample _002\bin\Debug\net6.0\Eхample _002.runtimeconfig.json
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Eхample _002\bin\Debug\net6.0\Eхample _002.dll
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Eхample _002\bin\Debug\net6.0\Eхample _002.pdb
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Eхample _002\obj\Debug\net6.0\Eхample _002.csproj.AssemblyReference.cache
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Eхample _002\obj\Debug\net6.0\Eхample _002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Eхample _002\obj\Debug\net6.0\Eхample _002.AssemblyInfoInputs.cache
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Eхample _002\obj\Debug\net6.0\Eхample _002.AssemblyInfo.cs
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Eхample _002\obj\Debug\net6.0\Eхample _002.csproj.CoreCompileInputs.cache
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Eхample _002\obj\Debug\net6.0\Eхample _002.dll
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Eхample _002\obj\Debug\net6.0\refint\Eхample _002.dll
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Eхample _002\obj\Debug\net6.0\Eхample _002.pdb
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Eхample _002\obj\Debug\net6.0\Eхample _002.genruntimeconfig.cache
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Eхample _002\obj\Debug\net6.0\ref\Eхample _002.dll
