@@ -1,0 +1,15 @@
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Example004 Div\bin\Debug\net6.0\Example004 Div.exe
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Example004 Div\bin\Debug\net6.0\Example004 Div.deps.json
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Example004 Div\bin\Debug\net6.0\Example004 Div.runtimeconfig.json
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Example004 Div\bin\Debug\net6.0\Example004 Div.dll
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Example004 Div\bin\Debug\net6.0\Example004 Div.pdb
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Example004 Div\obj\Debug\net6.0\Example004 Div.csproj.AssemblyReference.cache
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Example004 Div\obj\Debug\net6.0\Example004 Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Example004 Div\obj\Debug\net6.0\Example004 Div.AssemblyInfoInputs.cache
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Example004 Div\obj\Debug\net6.0\Example004 Div.AssemblyInfo.cs
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Example004 Div\obj\Debug\net6.0\Example004 Div.csproj.CoreCompileInputs.cache
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Example004 Div\obj\Debug\net6.0\Example004 Div.dll
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Example004 Div\obj\Debug\net6.0\refint\Example004 Div.dll
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Example004 Div\obj\Debug\net6.0\Example004 Div.pdb
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Example004 Div\obj\Debug\net6.0\Example004 Div.genruntimeconfig.cache
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Example004 Div\obj\Debug\net6.0\ref\Example004 Div.dll
