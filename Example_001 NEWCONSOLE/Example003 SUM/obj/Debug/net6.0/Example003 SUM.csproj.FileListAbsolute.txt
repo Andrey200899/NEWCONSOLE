@@ -1,0 +1,15 @@
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Example003 SUM\bin\Debug\net6.0\Example003 SUM.exe
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Example003 SUM\bin\Debug\net6.0\Example003 SUM.deps.json
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Example003 SUM\bin\Debug\net6.0\Example003 SUM.runtimeconfig.json
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Example003 SUM\bin\Debug\net6.0\Example003 SUM.dll
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Example003 SUM\bin\Debug\net6.0\Example003 SUM.pdb
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Example003 SUM\obj\Debug\net6.0\Example003 SUM.csproj.AssemblyReference.cache
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Example003 SUM\obj\Debug\net6.0\Example003 SUM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Example003 SUM\obj\Debug\net6.0\Example003 SUM.AssemblyInfoInputs.cache
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Example003 SUM\obj\Debug\net6.0\Example003 SUM.AssemblyInfo.cs
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Example003 SUM\obj\Debug\net6.0\Example003 SUM.csproj.CoreCompileInputs.cache
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Example003 SUM\obj\Debug\net6.0\Example003 SUM.dll
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Example003 SUM\obj\Debug\net6.0\refint\Example003 SUM.dll
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Example003 SUM\obj\Debug\net6.0\Example003 SUM.pdb
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Example003 SUM\obj\Debug\net6.0\Example003 SUM.genruntimeconfig.cache
+C:\Users\Buh_noute\Desktop\Lections 1\Example_001 NEWCONSOLE\Example003 SUM\obj\Debug\net6.0\ref\Example003 SUM.dll
